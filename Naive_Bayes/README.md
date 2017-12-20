@@ -1,1 +1,1 @@
-Estimating where a tweet was sent, based on the content of the tweet using Naive Bayes Classifier. For a given tweet, estimate posterior probability that a tweet was taken at one particular location given the words in that tweet making the Naive Bayes assumption.
+Estimating where a tweet was tweeted, based on the content of the tweet using Naive Bayes Classifier. For a given tweet, estimate posterior probability that a tweet was taken at one particular location given the words in that tweet using the Naive Bayes assumption.
